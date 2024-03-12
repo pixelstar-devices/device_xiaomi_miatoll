@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/tequila_miatoll.mk
+    $(LOCAL_DIR)/pixelstar_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    tequila_miatoll-user \
-    tequila_miatoll-userdebug \
-    tequila_miatoll-eng
+    pixelstar_miatoll-user \
+    pixelstar_miatoll-userdebug \
+    pixelstar_miatoll-eng
