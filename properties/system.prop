@@ -16,6 +16,10 @@ ro.charger.enable_suspend=true
 # CNE
 persist.vendor.cne.feature=1
 
+# Camera
+vendor.camera.aux.packagelist=org.lineageos.snap,com.android.camera
+persist.vendor.camera.privapp.list=com.android.camera
+
 # Dalvik
 dalvik.vm.dex2oat64.enabled=true
 dalvik.vm.dex2oat-filter=speed
